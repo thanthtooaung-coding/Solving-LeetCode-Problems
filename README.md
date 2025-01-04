@@ -17,6 +17,7 @@ Each problem has its own directory containing:
 | 3 | [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | Medium | [Java](Longest%20Substring%20Without%20Repeating%20Characters/Solution.java) | Hash Table, String, Sliding Window |
 | 4 | [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays) | Hard | [Java](Median%20of%20Two%20Sorted%20Arrays/Solution.java) | Array, Binary Search, Divide and Conquer |
 | 5 | [Longest Palindromic Substring](Longest%20Palindromic%20Substring) | Medium | [Java](Longest%20Palindromic%20Substring/Solution.java) | Two Pointers, String, Dynamic Programming |
+| 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
 ## Categories
@@ -24,7 +25,7 @@ Each problem has its own directory containing:
 ### By Difficulty
 - Easy: 1
 - Medium: 4
-- Hard: 1
+- Hard: 2
 
 ### By Topics
 - Array Problems
@@ -36,6 +37,7 @@ Each problem has its own directory containing:
 - String Problems
   - [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters)
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
+  - [Shortest Palindrome](Shortest%20Palindrome)
 - Dynamic Programming Problems
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
 - Linked List Problems
@@ -46,6 +48,8 @@ Each problem has its own directory containing:
   - [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays)
 - Graph Problems
   - [Find Champion II](Find%20Champion%20II)
+- String Matching Problems
+  - [Shortest Palindrome](Shortest%20Palindrome)
 
 ## About LeetCode
 
