@@ -1,6 +1,13 @@
 # Solving LeetCode Problems
 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Vinnn__96-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vinnn_96/)
+
 This repository contains my solutions to various LeetCode problems. Each solution is implemented in Java and includes detailed explanations.
+
+## LeetCode Stats
+- **Profile**: [Vinnn_96](https://leetcode.com/u/Vinnn_96/)
+- **Problems Solved**: 7
+- **Languages**: Java
 
 ## Repository Structure
 
