@@ -14,6 +14,7 @@ Each problem has its own directory containing:
 |---|-------|------------|----------|---------|
 | 1 | [Two Sum](Two%20Sum) | Easy | [Java](Two%20Sum/Solution.java) | Array, Hash Table |
 | 2 | [Add Two Numbers](Add%20Two%20Numbers) | Medium | [Java](Add%20Two%20Numbers/Solution.java) | Linked List, Math, Recursion |
+| 3 | [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | Medium | [Java](Longest%20Substring%20Without%20Repeating%20Characters/Solution.java) | Hash Table, String, Sliding Window |
 | 4 | [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays) | Hard | [Java](Median%20of%20Two%20Sorted%20Arrays/Solution.java) | Array, Binary Search, Divide and Conquer |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
@@ -21,7 +22,7 @@ Each problem has its own directory containing:
 
 ### By Difficulty
 - Easy: 1
-- Medium: 2
+- Medium: 3
 - Hard: 1
 
 ### By Topics
@@ -30,6 +31,9 @@ Each problem has its own directory containing:
   - [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays)
 - Hash Table Problems
   - [Two Sum](Two%20Sum)
+  - [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters)
+- String Problems
+  - [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters)
 - Linked List Problems
   - [Add Two Numbers](Add%20Two%20Numbers)
 - Math Problems
