@@ -12,16 +12,21 @@ Each problem has its own directory containing:
 
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|------------|----------|---------|
+| 1 | [Two Sum](Two%20Sum) | Easy | [Java](Two%20Sum/Solution.java) | Array, Hash Table |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
 ## Categories
 
 ### By Difficulty
-- Easy: 0
+- Easy: 1
 - Medium: 1
 - Hard: 0
 
 ### By Topics
+- Array Problems
+  - [Two Sum](Two%20Sum)
+- Hash Table Problems
+  - [Two Sum](Two%20Sum)
 - Graph Problems
   - [Find Champion II](Find%20Champion%20II)
 
