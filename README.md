@@ -13,6 +13,7 @@ Each problem has its own directory containing:
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|------------|----------|---------|
 | 1 | [Two Sum](Two%20Sum) | Easy | [Java](Two%20Sum/Solution.java) | Array, Hash Table |
+| 2 | [Add Two Numbers](Add%20Two%20Numbers) | Medium | [Java](Add%20Two%20Numbers/Solution.java) | Linked List, Math, Recursion |
 | 4 | [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays) | Hard | [Java](Median%20of%20Two%20Sorted%20Arrays/Solution.java) | Array, Binary Search, Divide and Conquer |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
@@ -20,7 +21,7 @@ Each problem has its own directory containing:
 
 ### By Difficulty
 - Easy: 1
-- Medium: 1
+- Medium: 2
 - Hard: 1
 
 ### By Topics
@@ -29,6 +30,10 @@ Each problem has its own directory containing:
   - [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays)
 - Hash Table Problems
   - [Two Sum](Two%20Sum)
+- Linked List Problems
+  - [Add Two Numbers](Add%20Two%20Numbers)
+- Math Problems
+  - [Add Two Numbers](Add%20Two%20Numbers)
 - Binary Search Problems
   - [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays)
 - Graph Problems
