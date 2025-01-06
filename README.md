@@ -6,7 +6,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## LeetCode Stats
 - **Profile**: [Vinnn_96](https://leetcode.com/u/Vinnn_96/)
-- **Problems Solved**: 7
+- **Problems Solved**: 8
 - **Languages**: Java
 
 ## Repository Structure
@@ -24,6 +24,7 @@ Each problem has its own directory containing:
 | 3 | [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters) | Medium | [Java](Longest%20Substring%20Without%20Repeating%20Characters/Solution.java) | Hash Table, String, Sliding Window |
 | 4 | [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays) | Hard | [Java](Median%20of%20Two%20Sorted%20Arrays/Solution.java) | Array, Binary Search, Divide and Conquer |
 | 5 | [Longest Palindromic Substring](Longest%20Palindromic%20Substring) | Medium | [Java](Longest%20Palindromic%20Substring/Solution.java) | Two Pointers, String, Dynamic Programming |
+| 6 | [Zigzag Conversion](Zigzag%20Conversion) | Medium | [Java](Zigzag%20Conversion/Solution.java) | String |
 | 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
@@ -31,7 +32,7 @@ Each problem has its own directory containing:
 
 ### By Difficulty
 - Easy: 1
-- Medium: 4
+- Medium: 5
 - Hard: 2
 
 ### By Topics
@@ -44,6 +45,7 @@ Each problem has its own directory containing:
 - String Problems
   - [Longest Substring Without Repeating Characters](Longest%20Substring%20Without%20Repeating%20Characters)
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
+  - [Zigzag Conversion](Zigzag%20Conversion)
   - [Shortest Palindrome](Shortest%20Palindrome)
 - Dynamic Programming Problems
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
