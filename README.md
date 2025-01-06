@@ -6,7 +6,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## LeetCode Stats
 - **Profile**: [Vinnn_96](https://leetcode.com/u/Vinnn_96/)
-- **Problems Solved**: 8
+- **Problems Solved**: 9
 - **Languages**: Java
 
 ## Repository Structure
@@ -25,6 +25,7 @@ Each problem has its own directory containing:
 | 4 | [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays) | Hard | [Java](Median%20of%20Two%20Sorted%20Arrays/Solution.java) | Array, Binary Search, Divide and Conquer |
 | 5 | [Longest Palindromic Substring](Longest%20Palindromic%20Substring) | Medium | [Java](Longest%20Palindromic%20Substring/Solution.java) | Two Pointers, String, Dynamic Programming |
 | 6 | [Zigzag Conversion](Zigzag%20Conversion) | Medium | [Java](Zigzag%20Conversion/Solution.java) | String |
+| 7 | [Reverse Integer](Reverse%20Integer) | Medium | [Java](Reverse%20Integer/Solution.java) | Math |
 | 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
@@ -32,7 +33,7 @@ Each problem has its own directory containing:
 
 ### By Difficulty
 - Easy: 1
-- Medium: 5
+- Medium: 6
 - Hard: 2
 
 ### By Topics
@@ -59,6 +60,8 @@ Each problem has its own directory containing:
   - [Find Champion II](Find%20Champion%20II)
 - String Matching Problems
   - [Shortest Palindrome](Shortest%20Palindrome)
+- Math Problems
+  - [Reverse Integer](Reverse%20Integer)
 
 ## About LeetCode
 
