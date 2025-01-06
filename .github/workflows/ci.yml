@@ -22,10 +22,10 @@ jobs:
 
     - name: Validate Java files
       run: |
-        for file in $(find . -name "Solution.java"); do
+        while IFS= read -r -d '' file; do
           echo "Compiling $file"
-          javac "$file"
-        done
+          javac "$file" || exit 1
+        done < <(find . -name "Solution.java" -print0)
 
     - name: Check README files exist
       run: |
