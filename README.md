@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## LeetCode Stats
 - **Profile**: [Vinnn_96](https://leetcode.com/u/Vinnn_96/)
-- **Problems Solved**: 9
+- **Problems Solved**: 10
 - **Languages**: Java
 
 ## Repository Structure
@@ -29,12 +29,13 @@ Each problem has its own directory containing:
 | 7 | [Reverse Integer](Reverse%20Integer) | Medium | [Java](Reverse%20Integer/Solution.java) | Math |
 | 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
+| 8 | [String to Integer (atoi)](./String%20to%20Integer%20(atoi)) | [Java](./String%20to%20Integer%20(atoi)/Solution.java) | String |
 
 ## Categories
 
 ### By Difficulty
 - Easy: 1
-- Medium: 6
+- Medium: 7
 - Hard: 2
 
 ### By Topics
@@ -49,6 +50,7 @@ Each problem has its own directory containing:
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
   - [Zigzag Conversion](Zigzag%20Conversion)
   - [Shortest Palindrome](Shortest%20Palindrome)
+  - [String to Integer (atoi)](String%20to%20Integer%20(atoi))
 - Dynamic Programming Problems
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
 - Linked List Problems
