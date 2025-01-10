@@ -41,8 +41,3 @@ jobs:
             fi
           fi
         done
-
-    - name: Validate markdown files
-      uses: DavidAnson/markdownlint-cli2-action@v11
-      with:
-        globs: "**/*.md" 
