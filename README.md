@@ -27,9 +27,9 @@ Each problem has its own directory containing:
 | 5 | [Longest Palindromic Substring](Longest%20Palindromic%20Substring) | Medium | [Java](Longest%20Palindromic%20Substring/Solution.java) | Two Pointers, String, Dynamic Programming |
 | 6 | [Zigzag Conversion](Zigzag%20Conversion) | Medium | [Java](Zigzag%20Conversion/Solution.java) | String |
 | 7 | [Reverse Integer](Reverse%20Integer) | Medium | [Java](Reverse%20Integer/Solution.java) | Math |
+| 8 | [String to Integer (atoi)](./String%20to%20Integer%20(atoi)) | Medium | [Java](./String%20to%20Integer%20(atoi)/Solution.java) | String |
 | 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
-| 8 | [String to Integer (atoi)](./String%20to%20Integer%20(atoi)) | [Java](./String%20to%20Integer%20(atoi)/Solution.java) | String |
 
 ## Categories
 
