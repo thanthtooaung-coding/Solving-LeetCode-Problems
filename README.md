@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## LeetCode Stats
 - **Profile**: [Vinnn_96](https://leetcode.com/u/Vinnn_96/)
-- **Problems Solved**: 10
+- **Problems Solved**: 11
 - **Languages**: Java
 
 ## Repository Structure
@@ -28,13 +28,14 @@ Each problem has its own directory containing:
 | 6 | [Zigzag Conversion](Zigzag%20Conversion) | Medium | [Java](Zigzag%20Conversion/Solution.java) | String |
 | 7 | [Reverse Integer](Reverse%20Integer) | Medium | [Java](Reverse%20Integer/Solution.java) | Math |
 | 8 | [String to Integer (atoi)](./String%20to%20Integer%20(atoi)) | Medium | [Java](./String%20to%20Integer%20(atoi)/Solution.java) | String |
+| 9 | [Palindrome Number](Palindrome%20Number) | Easy | [Java](Palindrome%20Number/Solution.java) | Math |
 | 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
 ## Categories
 
 ### By Difficulty
-- Easy: 1
+- Easy: 2
 - Medium: 7
 - Hard: 2
 
@@ -57,14 +58,14 @@ Each problem has its own directory containing:
   - [Add Two Numbers](Add%20Two%20Numbers)
 - Math Problems
   - [Add Two Numbers](Add%20Two%20Numbers)
+  - [Reverse Integer](Reverse%20Integer)
+  - [Palindrome Number](Palindrome%20Number)
 - Binary Search Problems
   - [Median of Two Sorted Arrays](Median%20of%20Two%20Sorted%20Arrays)
 - Graph Problems
   - [Find Champion II](Find%20Champion%20II)
 - String Matching Problems
   - [Shortest Palindrome](Shortest%20Palindrome)
-- Math Problems
-  - [Reverse Integer](Reverse%20Integer)
 
 ## About LeetCode
 
