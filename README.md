@@ -7,7 +7,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## LeetCode Stats
 - **Profile**: [Vinnn_96](https://leetcode.com/u/Vinnn_96/)
-- **Problems Solved**: 11
+- **Problems Solved**: 12
 - **Languages**: Java
 
 ## Repository Structure
@@ -29,6 +29,7 @@ Each problem has its own directory containing:
 | 7 | [Reverse Integer](Reverse%20Integer) | Medium | [Java](Reverse%20Integer/Solution.java) | Math |
 | 8 | [String to Integer (atoi)](./String%20to%20Integer%20(atoi)) | Medium | [Java](./String%20to%20Integer%20(atoi)/Solution.java) | String |
 | 9 | [Palindrome Number](Palindrome%20Number) | Easy | [Java](Palindrome%20Number/Solution.java) | Math |
+| 10 | [Regular Expression Matching](Regular%20Expression%20Matching) | Hard | [Java](Regular%20Expression%20Matching/Solution.java) | String, Dynamic Programming, Recursion |
 | 214 | [Shortest Palindrome](Shortest%20Palindrome) | Hard | [Java](Shortest%20Palindrome/Solution.java) | String, Rolling Hash, String Matching, Hash Function |
 | 2924 | [Find Champion II](Find%20Champion%20II) | Medium | [Java](Find%20Champion%20II/Solution.java) | Graph |
 
@@ -37,7 +38,7 @@ Each problem has its own directory containing:
 ### By Difficulty
 - Easy: 2
 - Medium: 7
-- Hard: 2
+- Hard: 3
 
 ### By Topics
 - Array Problems
@@ -52,8 +53,10 @@ Each problem has its own directory containing:
   - [Zigzag Conversion](Zigzag%20Conversion)
   - [Shortest Palindrome](Shortest%20Palindrome)
   - [String to Integer (atoi)](String%20to%20Integer%20(atoi))
+  - [Regular Expression Matching](Regular%20Expression%20Matching)
 - Dynamic Programming Problems
   - [Longest Palindromic Substring](Longest%20Palindromic%20Substring)
+  - [Regular Expression Matching](Regular%20Expression%20Matching)
 - Linked List Problems
   - [Add Two Numbers](Add%20Two%20Numbers)
 - Math Problems
@@ -66,6 +69,8 @@ Each problem has its own directory containing:
   - [Find Champion II](Find%20Champion%20II)
 - String Matching Problems
   - [Shortest Palindrome](Shortest%20Palindrome)
+- Recursion Problems
+  - [Regular Expression Matching](Regular%20Expression%20Matching)
 
 ## About LeetCode
 
